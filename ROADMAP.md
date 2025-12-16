@@ -87,4 +87,30 @@ Skipping a layer does not accelerate progress—it **collapses the system**.
 * Engineers: identify the lowest missing layer in your system
 * Researchers: treat each layer as a necessary condition, not an optional module
 
+---
 
+## Chain-of-Thought Roadmap — ITEM Dependency Table
+
+### L0 — Spatial Foundations
+| Component	| Function	   | Core ITEM#	| Upstream ITEM# |
+|:----------|:-------------|:-----------|:---------------|
+|Variable-Size Blocks Index	| Adaptive spatial indexing	| #101, #102 | #48 |
+| Euclidean Space Points Tree	| Euclidean point organization |#103, #104 | #101 |
+| Metric Space Points Tree	| General metric structure |#105, #106 |#103 |
+
+### L1 — Structural Intelligence Primitives
+| Component	| Function	   | Core ITEM#	| Upstream ITEM# |
+|:----------|:-------------|:-----------|:---------------|
+Metric Space Distance	| Structural comparison	| #61, #53	| #105
+UnalignedAND	| Unaligned structure matching	| #62, #131	| #61
+Bucket Tree of Permutations (BTP)	| Optimal structure binding	| #140, #141	| #62
+CCC (Common Concept Core)	| Structural mean / core	| #52, #54	| #62
+
+### L2 — System-Level Intelligence & Evolution
+| Component	| Function	   | Core ITEM#	| Upstream ITEM# |
+|:----------|:-------------|:-----------|:---------------|
+Rules Engines	| Structural reasoning	| #51, #55	| #52
+Event Language Model (ELM)	| Lossless event semantics	| #157, #158	| #53
+ACLM / CCGL	| Structural programming	| #125, #126, #147	| #157
+Fusion Cortex	| Multi-engine coordination	| #58, #149	| #126
+APGOE	| Autonomous evolution engine	| #163, #168	| #149
