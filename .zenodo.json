@@ -4,59 +4,13 @@
   "publication_type": "other",
   "version": "v1.1",
   "language": "eng",
-  "description": "<p><strong>DBM-COT (Digital Brain Model – Chain of Thought)</strong> is released as a DOI-anchored, citation-stable research chain documenting the incremental formation of <strong>Structural Intelligence</strong> within the Digital Brain Model (DBM) framework.</p><p>This release (v1.1) establishes DBM-COT as a <em>structured and traceable chain of reasoning, design, and construction</em>—not as a passive text corpus, dataset, or a set of independent papers. It is intended as a reconstructable research record enabling long-horizon reference, verification, and extension independent of transient AI models, datasets, or proprietary systems.</p><p>Scope note: v1.1 provides the first structurally complete and citation-stable baseline of the DBM-COT chain (ITEM #1–#170), including a dedicated consolidation layer for paradigms, evolution mechanisms, and governance-level reflections (ITEM #154–#170).</p>",
+  "description": "DBM-COT (Digital Brain Model – Chain of Thought) is released as a DOI-anchored, citation-stable research chain documenting the incremental formation of Structural Intelligence within the Digital Brain Model framework. This release (v1.1) establishes DBM-COT as a structured and traceable chain of reasoning, design, and construction, rather than a passive text corpus or dataset. DBM-COT v1.1 provides the first structurally complete and stable baseline of the chain (ITEM #1–#170), intended for long-horizon reference, reconstruction, and scholarly citation.",
   "creators": [
     {
       "name": "Tan, Sizhe",
-      "affiliation": "*** (e.g., Independent Researcher / Your Institution)",
-      "orcid": "*** (optional, recommended)"
+      "affiliation": "Independent Researcher"
     }
   ],
-  "contributors": [
-    {
-      "name": "*** (Optional: additional human contributors, if any)",
-      "type": "Other"
-    }
-  ],
-  "keywords": [
-    "Digital Brain Model",
-    "DBM-COT",
-    "Chain of Thought",
-    "Structural Intelligence",
-    "Constructive Evolution",
-    "Differential Trees",
-    "Metric Differential Tree",
-    "Euclidean Differential Tree",
-    "Perspective Alignment",
-    "ACLM",
-    "CCGL",
-    "ELM",
-    "Explainable AI",
-    "Interpretable AI"
-  ],
-  "license": "*** (recommended: CC-BY-4.0 for documents; or your chosen license string)",
-  "access_right": "open",
-  "notes": "DBM-COT v1.1 is a conceptually stable baseline release intended for long-term scholarly citation and reconstruction. Future releases may extend the chain additively, treating v1.1 as a fixed historical reference.",
-  "related_identifiers": [
-    {
-      "identifier": "*** (GitHub repository URL, e.g., https://github.com/<org>/<repo>)",
-      "relation": "isSupplementTo",
-      "resource_type": "software"
-    },
-    {
-      "identifier": "*** (Optional: project website / mirror URL)",
-      "relation": "isDocumentedBy",
-      "resource_type": "publication"
-    }
-  ],
-  "communities": [
-    {
-      "identifier": "*** (Optional: Zenodo community identifier if you use one)"
-    }
-  ],
-  "references": [
-    "DBM-COT General Preface.md",
-    "README.md",
-    "ITEM_INDEX.md"
-  ]
+  "license": "CC-BY-4.0",
+  "access_right": "open"
 }
