@@ -95,3 +95,30 @@ but as a **necessary step in an irreversible construction path**.
 Implementing fragments yields tools.
 Implementing the whole yields intelligence.
 
+---
+
+## Core Algorithms — Engineering Dependency Table
+
+### Spatial Organization Algorithms (L0)
+|Algorithm	| ITEM#	| Depends On |
+|:----------|:------|:-----------|
+Variable-Size Blocks Index	| #101, #102 |#48
+Euclidean Space Points Tree	| #103, #104 | #101
+Metric Space Points Tree	| #105, #106	| #103
+
+### Structural Matching & Distance (L1)
+|Algorithm	| ITEM#	| Depends On |
+|:----------|:------|:-----------|
+Metric Space Distance	| #61, #53	| #105
+UnalignedAND	| #62, #131	| #61
+Bucket Tree of Permutations	| #140, #141	| #62
+CCC (Common Concept Core)	| #52, #54	| #62
+
+### Rules, Language & Evolution (L2)
+|Algorithm	| ITEM#	| Depends On |
+|:----------|:------|:-----------|
+Rules Engines	| #51, #55	| #52
+Event Language Model	| #157, #158	| #53
+ACLM / CCGL / Dual-CCGL	| #125, #126, #147	| #157
+Fusion Cortex	| #58, #149	| #126
+APGOE	| #163, #168	| #149
