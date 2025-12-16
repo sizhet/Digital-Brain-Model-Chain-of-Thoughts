@@ -1,5 +1,5 @@
-Digital Brain Model — Chain-of-Thoughts Documents (DBM-COT)
-General Preface
+# Digital Brain Model — Chain-of-Thoughts Documents (DBM-COT)
+# General Preface
 
 The Digital Brain Model (DBM) is a system-engineering framework composed of structural intelligence, metric-space reasoning, differential trees, the Event Language Model (ELM), the structural language CCGL, autonomous evolution mechanisms (Mutations Engine), and multi-agent alignment structures (Fusion Cortex).
 It is not an extension of existing LLMs, but a new paradigm of incremental intelligence—a system capable of building its own structures, accumulating knowledge, and evolving along task chains and mutation chains.
@@ -17,7 +17,7 @@ Establish a stable and extensible foundation for students, educators, researcher
 
 The following three sections provide tailored guidance for different categories of readers.
 
-A) For Beginners (Students): Your First Steps Up the Ladder
+## A) For Beginners (Students): Your First Steps Up the Ladder
 
 Before anything else, remember this:
 
@@ -52,7 +52,7 @@ ITEM #111 (Observer-Centered Spatial Reasoning)
 
 ITEM #140–142 (Mutation and Self-Repair Mechanisms)
 
-B) For Science Communicators and Media: The Bridge Between Society and Future Intelligence
+## B) For Science Communicators and Media: The Bridge Between Society and Future Intelligence
 
 If you work in science communication, future-tech commentary, or public education, observe the following:
 
@@ -66,7 +66,7 @@ DBM addresses the central public question:
 
 DBM-COT provides the conceptual clarity and technical accuracy needed to communicate this transition.
 
-C) For Researchers and Engineers: Your System Architecture Blueprint
+## C) For Researchers and Engineers: Your System Architecture Blueprint
 
 DBM-COT offers a complete, executable blueprint for engineering-level understanding:
 
