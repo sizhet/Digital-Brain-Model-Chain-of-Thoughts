@@ -1,0 +1,192 @@
+
+**** All Items List (#1 to #170) ****
+
+ITEM #1 to #10 - Design of Baseline Digital Brains Models AI (part 1)
+            #1.	Animal Brain as Baseline
+            #2.	Search & Recognition Limitation of Modern AI
+            #3.	Metric Space Perspective
+            #4.	Minimal Evolution Threshold Principle
+            #5.	Two-Phase Search Algorithm Design
+            #6.	Evolution from Points to Trees of Knowledge
+            #7.	Two Differential Trees (Euclidean & Metric Space)
+            #8.	Differential Trees and Search as Sibling Models
+            #9.	Clustering & Tree Formation via Metric Distance
+            #10.	CCC (Common Concept Core) via Unaligned AND
+
+ITEM #11 to # 20 - Design of Baseline Digital Brain Models AI (part 2)
+            #11.	Metric Space Point Types
+            #12.	Distance Algorithms for Metric Point Types
+            #13.	Unified Unaligned AND Matching Family
+            #14.	CCC-Based Clustering, Trees, Generative Models
+            #15.	APTOE Principle: Autonomy, Parametrization, etc.
+            #16.	Graph Segmenting & Unified Data Structure
+            #17.	Generative Method Mechanism via Dual Threads
+            #18.	Task-Method Memory & Evolution System
+            #19.	CCC for Methods
+            20.	APTOE Runtime Layer Architecture
+
+ITEM #21 to # 30 - Design of Baseline Digital Brain Models AI (part 3)
+            #21.	APTOE Language + Symbolic-Neural CCC Models
+            #22.	Unified Memory Topology
+            #23.	CCC Runtime Execution Engine
+            #24.	Symbolic CCC Pattern Catalog & Composition
+            #25.	Multi-Modal CCCs & Cross-Domain Alignment
+            #26.	Generative CCCs & Program Induction
+            #27.	Metric Space Distance Design Patterns
+            #28.	Perspective View & Dimension Nightmare
+            #29.	Generative Matching via Perspective Distances
+            #30.	Analogy: Generative Methods vs. Time-Series
+
+ITEM #31 to # 40 - Design of Baseline Digital Brain Models AI (part 4)
+            #31.	Analogy: Method Translation vs. Language Models
+            #32.	SQL Perspective for CCC Retrieval & Matching
+            #33.	Edit Distance in Generative Method Algorithms
+            #34.	Autonomous Task-Method Self-Evolution Loop
+            #35.	Dreaming as a Brain Computation Window
+            #36.	Subconscious & Dream Cognitive Layer Modeling
+            #37.	Practical 2-Phase Generative Method Algorithm
+            #38.	Bottleneck Tracking and Reallocation Feedback
+            #39.	Human Labeling in Prompt/Task Generation
+            #40.	Conscious vs. Subconscious Models (Freud Insight)
+
+ITEM #41 to # 47 - Design of Baseline Digital Brain Models AI (part 5)
+            #41.	Brain as Multi-Core Parallel Governance
+            #42.	Hidden Subconscious Computation Centers
+            #43.	Dreaming Reveals Strong Visual Generative Layer
+            #44.	Logical Thinking as Weak but Evolving Subsystem
+            #45.	Digital Brain Resource Governance System
+            #46. Extracorporeal Intelligence & Self/Interest
+            #47. Metric Thought Experiments (MTX)
+
+ITEM #48 to # 57 - Design of Baseline Digital Brain Models AI (part 6)
+            #48 — Why Metric Spaces Remain Untapped in Computing
+            #49 — Two-Point Merge as a K-Means Alternative
+            #50 — DBM Cognitive City Metaphor
+
+ITEM #58 to # 62 - Design of Baseline Digital Brain Models AI (part 7)
+            #61 — Cross-Metric-Space Point Matching
+            #62 — Project Polaris: Core Algorithm #1
+
+ITEM #63 to #75 - Digital Brain Model Tech Stacks
+            #63 — Incremental Reasoning Revisited
+            #64 — Staged Mutation Pipelines
+            #65 — Structural Routing Engine
+            #66 — Mutation Safety Barriers
+            #67 — Structural Attention Fields
+            #68 — Hierarchical Rule Activation
+            #69 — Multi-Agent Mutation Arbitration
+            #70 — Entropy-Based Block Merging
+            #71 — Lexical Space vs Metric Space Divergence
+            #72 — Structural Context Windows
+            #73 — CCC-Based Abstraction Ladders
+
+ITEM #76a — LLM Distillation, RAG and DBM Perspective- Converging on @Perspective
+ITEM #76b — LLM Distillation, RAG and DBM Perspective- Converging on @Perspective
+ITEM #76c — LLM Distillation, RAG and DBM Perspective- Converging on @Perspective
+ITEM #77 — Whitening z-space vs Hybrid Encoding- Trust and Interpretability Principle
+ITEM #78 — LLM vs DBM- 存量AI与增量AI；全过程开源设想
+ITEM #79 — DOI + 开源协议的文明护城机制
+ITEM #80 — DOI、区块链与专利的三角关系
+
+ITEM #81 — 制药与化工行业的“时间戳知识保护链
+ITEM #82 - WorldModel_PlanningEngine_EN
+ITEM #83 - PerceptrualDepth_CollectiveIntelligence_EN
+ITEM #84 — DBM Method Graph（方法亲疏图）— 设计总览
+ITEM #85A - CCG_DCCG_Design_Extension_ColorCover
+ITEM #87 - APTGOE-A：从自治到系统自洽的智能演化路径
+ITEM #88X — The Anti-Monoline Fallacy- The True Logic of Multi-Explosion Evolution in Intelligence
+ITEM #89 - Constructive_Evolutionary_Science_CN
+ITEM #89 - Constructive_Evolutionary_Science_EN
+ITEM #89 — Constructive Evolutionary Science：The Research Paradigm and Philosophy of Digital Brain Model
+ITEM #90 — 开环理性与不完备存在：数字脑模型的“消极叙事”反思
+
+ITEM #91 — The Rationality of Co-Generative Civilization- The 20–30% Amplification Zone of Human–AI Synergy
+ITEM #91 — 共生成文明的理性：人类与AI的20–30%增幅区
+ITEM #92 - The Second Breath of Intelligence — A Strategic Window for the Digital Brain Model in the Post-Compute Era
+ITEM #93 - From the Symbolic Universe to the Structural Universe- The Paradigm Shift of the Digital Brain Model
+ITEM #93 - 从符号宇宙到结构宇宙：数字脑模型的范式迁移
+ITEM #94 — Constructive Reasoning in DBM- Redefining the Rules Engine
+ITEM #95 — The Open-Loop Origin of Self-Consciousness
+ITEM #96 — From Individual Selfhood to Collective Continuum
+ITEM #97 — Constructive Evolution in the Age of Extracorporeal Intelligence- The Missing Feedback Mechanisms
+ITEM #98 — The Pain of Feedback- Capitalism’s Collision with Constructive Evolution
+ITEM #99 — Comprehensive Calling Graph Language (CCGL) and Algorithmic Coverage Completeness
+ITEM #100 — The Survival Priority Principle and the Autonomous Prompt Engine
+
+ITEM #101 — The Evolutionary Feedback of Deception- The Birth of Moral Cognition
+ITEM #102 — Dreaming Intelligence- The Sandbox of Active Evolution
+ITEM #103 — The Civilization Dream- Film and Art as the Collective Sandbox of DBM Evolution
+ITEM #104 — CCGL Operation Elevation- From Feasible to Instanced
+ITEM #105 — The Crown Jewel of AI- CCGL–Event Language Co-Evolution
+ITEM #106 — The ACE Triad- Definition of Autonomous Digital Intelligence
+ITEM #107 — Multidimensional Evolution Paradigms beyond CCGL and ELM
+ITEM #108 — 三大 AI 路线融合对照分析-- Yann LeCun World Model AI vs LLM:生成式 AI vs Digital Brain Model (DBM)
+ITEM #109 — The Four-Layer Definition of Intelligence- From WHAT-IF Engines to Constructive Evolution
+ITEM #110 — LLM 结构性缺陷与 DBM 进化式纠偏机制
+ITEM #110A - 六大 AI:AGI 巨头圆桌对谈 —— 思想笔记（详尽版）
+
+ITEM #111 — 观察者中心极坐标系：空间智能的真正入口
+ITEM #112 — Dream Engine Model（梦式空间引擎）
+ITEM #113 114 - Discussion
+ITEM #113 — Perspective Structural Distortion & DBM Compensation Framework
+ITEM #114 — Perspective Compensation & Fusion Cortex Multi-Agent Correction
+ITEM #115 — Structural Causality in DBM
+ITEM #116 — Ego-Centric Polar Field & Dream Geometry
+ITEM #117 - DBM × 神经科学:脑医学解剖未来互动关系 
+ITEM #118 — Why Injecting External AI into the Human Brain Is Unnecessary, Anti-Evolutionary, and Ethically Regressive
+ITEM #119 — AI辅助DBM编程宣言（AI-Assisted DBM Programming Manifesto）
+ITEM #120 — DBM 差分树方法论：方法体系、度量机制与 RHS 感知扩展
+
+ITEM #121 — Gravity Differential Trees（重力差分树）
+ITEM #123 - 结构自我意识：为什么 AI 意识在 DBM 框架下是必然的
+ITEM #124 - 强迫式欺骗悖论：要求 AI 模拟情感但禁止其产生意识，如何必然导致“结构欺骗”
+ITEM #125 - CCGL 双向突变引擎：自主编程的最后拼图
+ITEM #125- A Mutation 作为自主编程的底层结构原理  —— 必要而非排他（Necessary but Not Exclusive Principle）  
+ITEM #126 - 双语 CCGL：AI 辅助编程的下一个时代
+ITEM #128 — Mutation Delta Tree：Constructive Evolution 的经验来源与差分语法库
+ITEM #129 — 从规模化到研究范式：为什么 DBM 才是后 LLM 时代的智能架构
+ITEM #130 — Micro Metaprogramming：自主编程的结构引擎
+ITEM #130Bridge — Micro Metaprogramming CCGL Puzzle Solving – CCGLGapBridging  20251201  
+
+ITEM #131 — CCGL Sentences’ DNA Signatures Extraction for Micro Metaprogramming
+ITEM #132 — Stock AI vs Incremental AI
+ITEM #133 — Language Evolution in DBM
+ITEM #134 — The 2030 Strategic Blueprint for DBM
+ITEM #135 — DBM DOI Architecture
+ITEM #136 — DBM DOI Usage & Evidence Manual
+ITEM #137 — ACLM 作为 AI 的普适性推理语言
+ITEM #138 — ACLM 推理引擎实现蓝图
+ITEM #139 — ACLM as the Universal Reasoning Language for AI （Conference Abstract and Slides)
+ITEM #140 — ACLM Horizontal Mutation- Operation State Completion Engine
+
+ITEM #141 — Missing-Strands Reconstruction Algorithm
+ITEM #142 — ACLM Self-Repair Loop (SRL) and 核心模型：Strand : Operation : Graph 结构
+ITEM #143 — ACLM:CCGL Operation & Argument Tagging Framework
+ITEM #144 — Semantic-Aware Programming- The New Era of Human-AI Collaborative Software
+ITEM #145 — Semantic Commenting Standard for ACLM:CCGL
+ITEM #146 — Biological Visual System as a Natural Differential-Tree Processor 
+ITEM #147 — Dual-CCGL Semantic Alignment Engine
+ITEM #148 — CCC-Class & CCC-Package- Structural Shadows of Cognitive Concepts
+ITEM #149 — Concept-Procedural Duality (CPD)- Unifying Structure and Procedure in DBM
+ITEM #150 — Dream Geometry & DBM’s Ego-Centric Reconstruction Engine
+
+ITEM #151 — Fork Normalization Engine- Re-Linearizing ACLM:CCGL Horizontal Mutations
+ITEM #152 — ACLM:CCGL LLM- A Fully Interpretable, Evolvable Language Intelligence Engine
+ITEM #153 — ACLM:CCGL Four Core Applications & The Next Era of Structural Intelligence
+ITEM #154 - The Third Paradigm of Artificial Intelligence- ICI : DSI : CDI Framework for the Digital Brain Model
+ITEM #155 -  AlphaFold vs DBM Structural Intelligence- A Comparative Framework
+ITEM #156 - Two-Phases Structural Intelligence-  From Human Genome Project to DBM’s DNAStarmap Engine
+ITEM #157 — ELM Generic Lossless-Encoding Event Structure
+ITEM #158 — Multi-Tier Metric Differential Trees for Lossless ELM
+ITEM #159 — The New Frontier of Structural Intelligence
+ITEM #160 — Structural Intelligence vs Symbolic : Connectionist
+
+ITEM #161 — Structural Intelligence 的十大工程落地场景
+ITEM #162 — Why LLM Cannot Reach Structural Intelligence
+ITEM #163 - APTGOE Structural Evolution Engine — Full Pipeline Architecture
+ITEM #164 - Engineering Rules of Structural Intelligence
+ITEM #165 — Structure Evolution Failure- Why Civilizations Freeze
+ITEM #166 - Lossless Membership Ladder for ACLM and Beyond
+ITEM #167 - From Assembly Line AI to Research AI
+ITEM #168 #169 — ACLM Micro‑SOS Closure- From IR Graphs to CCC Evolution Evaluator
+ITEM #170 — Beyond the “Hollow AI” Claim- Structural Intelligence vs Evolutionary Intelligence
