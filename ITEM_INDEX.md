@@ -9,7 +9,16 @@ L1 — Structural Intelligence Primitives
 L2 — System-Level Intelligence & Evolution
 (规则、语言、编程、融合、演化闭环)
 
+# How to Use This Index
 
+PART I   — Foundations (ITEM #1–#120)
+
+PART II  — Structural & Algorithmic Core (ITEM #121–#153)
+
+PART III — Structural Intelligence Consolidation
+           (Paradigm, Evolution, Governance)
+           ITEM #154–#170   
+           
 ## L0 — Spatial Foundations
 
 ITEM#	| Title (Short)	| L-Tag	| Core Component
@@ -41,14 +50,16 @@ ITEM#	| Title (Short)	| L-Tag	| Core Component
 
 ITEM#	| Title (Short)	| L-Tag	| Core Component
 |:----|:--------------|:------|:---------------|
-#51	| Human Rule-Based Fast Reasoning	| L2	| Rules Engines
-#55	| Four Rule Engine Types Summary	| L2	| Rules Engines
+#51	    | Human Rule-Based Fast Reasoning	| L2	| Rules Engines
+#55	    | Four Rule Engine Types Summary	| L2	| Rules Engines
 #157	| ELM Generic Lossless Encoding	| L2	| Event Language Model
 #158	| Multi-Tier Metric Trees for ELM	| L2	| Event Language Model
 #125	| Mutation as Autonomous Programming	| L2	| ACLM
 #126	| CCGL — Next Gen Programming	| L2	| CCGL
 #147	| Dual-CCGL Semantic Alignment	| L2	| Dual-CCGL
 #149	| Concept–Procedural Duality (CPD)	| L2	| Fusion Cortex
-#58	| DBPS / Unified Rule Simulation	| L2	| Fusion Cortex
+#58	    | DBPS / Unified Rule Simulation	| L2	| Fusion Cortex
 #163	| APTGOE Structural Evolution Engine	| L2	| APGOE
+#166    | Lossless Membership Ladder for ACLM and Beyond | L2 | IR Layer 
 #168	| CCC Evolution Evaluator	| L2	| APGOE (Governance Layer)
+#159    | The New Frontier of Structural Intelligence | L2	| All Core DBM Structures
