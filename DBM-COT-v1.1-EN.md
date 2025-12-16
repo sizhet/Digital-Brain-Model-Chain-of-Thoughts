@@ -1,7 +1,7 @@
 # DBM-COT Summary Book v1.1 — English Edition
 
 ## Batch A: Preface + ITEM #1–#20（Enhanced Edition）
-Digital Brain Model — Corpus of Thought (COT)
+Digital Brain Model — Chain of Thought (COT)
 Authors: Sizhe Tan & GPT-Obot
 A4 Academic Format
 
@@ -9,7 +9,7 @@ A4 Academic Format
 
 ## 0. Preface (Enhanced Edition)
 
-The DBM-COT (Corpus of Thought) is a long-term, evolving research system documenting the conceptual, mathematical, and engineering foundations of the Digital Brain Model. The first corpus (v1.0) established 153 ITEMs across differential geometry, metric intelligence, mutation-driven autonomous programming, CCGL/ACLM language systems, multi-agent Fusion Cortex design, visual perception geometry, and structural causality engines.
+The DBM-COT (Chain of Thought) is a long-term, evolving research system documenting the conceptual, mathematical, and engineering foundations of the Digital Brain Model. The first corpus (v1.0) established 153 ITEMs across differential geometry, metric intelligence, mutation-driven autonomous programming, CCGL/ACLM language systems, multi-agent Fusion Cortex design, visual perception geometry, and structural causality engines.
 
 However, v1.0 presented each ITEM as a static summary of its earliest appearance.
 DBM research does not occur in static snapshots—it evolves. Many concepts (e.g., Gravity Differential Trees, Mutation Delta Trees, Dual-CCGL Alignment, Dream Geometry) were introduced modestly at first, then became significantly deepened in later conversations.
@@ -716,7 +716,7 @@ Source: Ego-centric perception discussions (2025)
 
 ## DBM-COT Summary Book v1.1 — English Edition
 ## Batch B: ITEM #21–#40（Enhanced Edition）
-## Digital Brain Model — Corpus of Thought (COT)
+## Digital Brain Model — Chain of Thought (COT)
 
 格式继续保持：
 Canonical Summary → Enhanced Edition → Evolution Notes → Cross-References → Keywords → Metadata
@@ -1271,7 +1271,7 @@ Source: Structural reasoning discussions (2025)
 
 ## DBM-COT Summary Book v1.1 — English Edition
 ## Batch C: ITEM #41–#60（Enhanced Edition）
-## Digital Brain Model — Corpus of Thought (COT)
+## Digital Brain Model — Chain of Thought (COT)
 
 仍以学术出版格式（Canonical Summary → Enhanced Edition → Evolution Notes → Cross-References → Keywords → Metadata）呈现。
 
@@ -1638,7 +1638,7 @@ Source: Cognitive metaphor discussions (2025)
 
 ## DBM-COT Summary Book v1.1 — English Edition
 ## Batch D: ITEM #61–#80（Enhanced Edition）
-## Digital Brain Model — Corpus of Thought (COT)
+## Digital Brain Model — Chain of Thought (COT)
 
 保持 v1.1 的出版格式：
 Canonical Summary → Enhanced Edition → Evolution Notes → Cross-References → Keywords → Metadata
@@ -2399,7 +2399,7 @@ Source: Signature analysis (2025)
 
 ## DBM-COT Summary Book v1.1 — English Edition
 ## Batch E: ITEM #81–#100（Enhanced Edition）
-## Digital Brain Model — Corpus of Thought (COT)
+## Digital Brain Model — Chain of Thought (COT)
 
 依旧采用出版格式：
 Canonical Summary → Enhanced Edition → Evolution Notes → Cross-References → Keywords → Metadata
@@ -3161,7 +3161,7 @@ Source: Structural RL-style discussions (2025)
 
 ## DBM-COT Summary Book v1.1 — English Edition
 ## Batch F: ITEM #101–#120（Enhanced Edition）
-## Digital Brain Model — Corpus of Thought (COT)
+## Digital Brain Model — Chain of Thought (COT)
 
 保持出版级格式：
 Canonical Summary → Enhanced Edition → Evolution Notes → Cross-References → Keywords → Metadata
@@ -3935,7 +3935,7 @@ Source: Method-map construction (2025)
 
 ## DBM-COT Summary Book v1.1 — English Edition
 ## Batch G: ITEM #121–#153（Enhanced Edition）
-## Digital Brain Model — Corpus of Thought (COT)
+## Digital Brain Model — Chain of Thought (COT)
 
 这是全 153 ITEM 中结构密度最高、概念推动力最强的一段，包含：
 
