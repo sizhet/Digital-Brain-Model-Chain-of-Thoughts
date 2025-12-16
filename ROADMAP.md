@@ -20,6 +20,15 @@ Each stage exists because the next one cannot be constructed without it.
 
 DBM’s core components form an irreversible ladder with three layers.
 
+L0 — Spatial Foundations
+(空间、索引、点结构、搜索地基)
+
+L1 — Structural Intelligence Primitives
+(结构距离、Unaligned 匹配、CCC、结构算子)
+
+L2 — System-Level Intelligence & Evolution
+(规则、语言、编程、融合、演化闭环)
+
 ---
 
 ### L0 — Spatial Foundations
