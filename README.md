@@ -71,3 +71,17 @@ you enter **Structural Intelligence**.
 DBM-COT documents a path that has already been walked—and is still extending.
 It is intended as a long-term reference that survives model generations.
 
+---
+
+## DBM Core Components — Item Index (Entry Level)
+   
+
+|Core Component	                  |  Description	                    |Primary ITEM#	  |  Upstream ITEM#  |
+|:--------------------------------|:----------------------------------|:----------------|:-----------------| 
+| Structural Intelligence (Paradigm)	| DBM overall paradigm               |#160, #154 |	— |
+| Chain-of-Thought (DBM-COT)	        | Irreversible construction path	   | #150, #152 |	#160 |
+| Spatial Organization Principle	    | Intelligence starts from space	   | #62, #48	| #160 |
+| Structural Matching Principle	      | Intelligence starts from structure | #53, #61 | #62 |
+| Self-Evolving Intelligence	        | Intelligence as a system	         | #163, #165 | #150 |
+
+
