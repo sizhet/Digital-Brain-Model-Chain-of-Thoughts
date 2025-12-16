@@ -1,38 +1,73 @@
-# Digital Brain Model Chain-of-Thoughts Documents (DBM-COT)
+# DBM-COT
 
-> A structural corpus of 170+ evolving ITEMS that define the **Digital Brain Model (DBM)** paradigm — from metric-space intelligence to autonomous programming and multi-agent cognitive geometry.
+## Digital Brain Model — Chain-of-Thoughts
 
-## 1. What is DBM-COT?
+### Structural Intelligence: From Algorithms to Self-Evolving Intelligence
 
-DBM-COT (Digital Brain Model — Corpus of Thought) is a long-term, evolving knowledge base that captures:
+**The core idea of DBM is not “a stronger model,”
+but an irreversible structural path:**
 
-- The **core concepts** of the Digital Brain Model (DBM)
-- 150+ **ITEMs** (and growing) with:
-  - Canonical Summary
-  - Enhanced Edition (later refinements)
-  - Evolution Notes
-  - Cross-References
-  - Keywords
-- A complete **structural map** of DBM’s algorithms, architectures, and philosophical foundations
+starting from **spatial organization**,
+passing through **structural matching**,
+and ultimately reaching **self-evolving intelligence**.
 
-DBM stands for a **Third Paradigm of AI**:  
-not symbolic AI, not matrix-only LLM AI, but **structural, metric, and mutation-driven intelligence**.
-
-For a full narrative, see:
-
-- `summary/DBM-COT-v1.1-EN.md` (Enhanced Edition)
-- `summary/DBM-COT-v1.1-CN.md` (coming as a mirrored Chinese edition)
+Along this path,
+**every algorithm exists because the next one cannot stand without it.**
 
 ---
 
-## 2. Repository Structure
+## What Is DBM-COT?
 
-```text
-summary/        # DBM-COT Summary Book (v1.1 and later)
-items/          # Fine-grained ITEM files (EN + CN)
-diagrams/       # All structural diagrams and posters
-papers/         # Whitepapers, essays, long-form texts
-teaching/       # Course outlines, lecture notes, teaching materials
-meta/           # Roadmaps, versioning, Zenodo metadata
-scripts/        # Optional helper scripts for indexing/validation
+DBM-COT (Digital Brain Model – Chain-of-Thoughts) is not a collection of algorithms, nor an incremental improvement over existing AI models.
+
+It is a **structural intelligence framework** that records—both conceptually and engineering-wise—how intelligence can be constructed as a coherent, irreversible process.
+
+Unlike traditional AI paradigms:
+
+* **Symbolic AI** relies on handcrafted rules and logic.
+* **Connectionist AI** relies on large-scale parameters and statistical learning.
+
+DBM treats **structure itself as the first-class object of intelligence**.
+
+---
+
+## Why Structural Intelligence?
+
+Modern AI systems often succeed by scaling models or data, yet struggle with:
+
+* structural generalization,
+* cross-domain alignment,
+* interpretability of reasoning paths,
+* long-term self-evolution.
+
+DBM addresses these limitations by building intelligence **from space, structure, and composition**, rather than from tokens or parameters.
+
+---
+
+## Repository Structure
+
+This repository is organized into three primary documents:
+
+* **README.md** — Project overview and paradigm definition
+* **ROADMAP.md** — The DBM Chain-of-Thought (engineering and cognitive spine)
+* **CORE_ALGORITHMS.md** — Detailed descriptions of DBM’s core algorithms
+
+Readers are encouraged to follow this order.
+
+---
+
+## One Sentence for Engineers
+
+If you implement only a single segment,
+you will obtain a **useful algorithm**.
+
+If you implement the complete **Chain-of-Thought**,
+you enter **Structural Intelligence**.
+
+---
+
+## Status
+
+DBM-COT documents a path that has already been walked—and is still extending.
+It is intended as a long-term reference that survives model generations.
 
