@@ -1066,7 +1066,7 @@ Metadata
 Source: DBM–LLM paradigm comparison (2025)
 
 ===========================================
-ITEM #30 — Structural Interpretability Framework
+### ITEM #30 — Structural Interpretability Framework
 ===========================================
 
 Canonical Summary
