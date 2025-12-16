@@ -16,6 +16,30 @@ Along this path,
 
 ---
 
+## How to Navigate DBM-COT
+
+DBM-COT is organized as a chain of thought, not as a set of independent documents.
+
+For first-time readers:
+
+Start with the General Preface to understand the intent and scope of the project.
+
+Use ITEM_INDEX.md as a map of the chain rather than a reading checklist.
+
+Read ITEMS by conceptual progression, not by random selection.
+
+The repository is structured in three conceptual layers:
+
+Foundations — core ideas, representations, and methods.
+
+Structural & Algorithmic Core — mechanisms, algorithms, and system designs.
+
+Structural Intelligence Consolidation — paradigms, evolution engines, and long-horizon reflections.
+
+DBM-COT is best read as a traceable reasoning and construction process, where each ITEM derives its meaning from its position in the chain.
+
+---
+
 ## What Is DBM-COT?
 
 DBM-COT (Digital Brain Model – Chain-of-Thoughts) is not a collection of algorithms, nor an incremental improvement over existing AI models.
