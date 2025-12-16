@@ -1,4 +1,25 @@
 # Digital Brain Model — Chain-of-Thoughts Documents (DBM-COT)
+
+# Intention and Mission of the DBM‑COT Publication
+
+The Digital Brain Model – Chain of Thought (DBM‑COT) is published with a clear and deliberate academic intention:
+to preserve, formalize, and transmit a new paradigm of intelligence—Structural Intelligence—that cannot be adequately expressed within existing symbolic or connectionist frameworks.
+
+DBM‑COT is not a passive text collection, nor a retrospective survey of prevailing artificial intelligence techniques.
+It is a structured and traceable chain of reasoning, design, and construction, documenting the incremental formation of Structural Intelligence within the Digital Brain Model (DBM) framework.
+
+This chain records how core concepts, representations, algorithms, and engineering principles emerge, depend on one another, and become progressively stabilized. Each ITEM within DBM‑COT constitutes a coherent node in this chain, contributing to an irreversible process of conceptual and structural construction rather than a set of interchangeable artifacts.
+
+The mission of DBM‑COT is threefold:
+
+To establish a stable intellectual reference for Structural Intelligence, enabling future researchers to reconstruct, verify, and extend the underlying ideas as a coherent chain, independent of transient models, datasets, or proprietary systems.
+
+To bridge theory and engineering, demonstrating how structural principles of intelligence can be instantiated as concrete, testable, and evolvable computational systems.
+
+To preserve a moment of paradigm formation, ensuring that this alternative trajectory of intelligence design remains accessible, interpretable, and reconstructable over time.
+
+DBM‑COT is therefore released as a DOI‑anchored research record—not as a conclusion, but as a foundational chain upon which further constructive intelligence research may be built.
+
 # General Preface
 
 The Digital Brain Model (DBM) is a system-engineering framework composed of structural intelligence, metric-space reasoning, differential trees, the Event Language Model (ELM), the structural language CCGL, autonomous evolution mechanisms (Mutations Engine), and multi-agent alignment structures (Fusion Cortex).

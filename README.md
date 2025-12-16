@@ -44,6 +44,23 @@ DBM addresses these limitations by building intelligence **from space, structure
 
 ---
 
+## Vision
+
+DBM‑COT documents a structured chain of reasoning, design, and construction developed through sustained human–AI collaboration.
+
+Rather than treating artificial intelligence as a passive tool or opaque generator, this work explores how intelligence can be constructed, explained, and evolved through structure, perspective alignment, and incremental reasoning.
+
+DBM‑COT stands as evidence that meaningful intelligence development is not solely a matter of scale, but of traceable structure and deliberate design.
+
+---
+
+## Status
+
+DBM-COT documents a path that has already been walked—and is still extending.
+It is intended as a long-term reference that survives model generations.
+
+---
+
 ## Repository Structure
 
 This repository is organized into three primary documents:
@@ -63,13 +80,6 @@ you will obtain a **useful algorithm**.
 
 If you implement the complete **Chain-of-Thought**,
 you enter **Structural Intelligence**.
-
----
-
-## Status
-
-DBM-COT documents a path that has already been walked—and is still extending.
-It is intended as a long-term reference that survives model generations.
 
 ---
 
