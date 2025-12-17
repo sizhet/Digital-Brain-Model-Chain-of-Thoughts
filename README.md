@@ -118,7 +118,15 @@ you enter **Structural Intelligence**.
 | Structural Matching Principle	      | Intelligence starts from structure | #53, #61 | #62 |
 | Self-Evolving Intelligence	        | Intelligence as a system	         | #163, #165 | #150 |
 
-### How to Cite This Release
+## Citation / DOI
+
+This release of **DBM-COT (v1.1)** is archived and citable via Zenodo:
+
+**DOI:** *[insert your DOI here]*
+
+If you use or reference this work, please cite the DOI above.
+
+## How to Cite This Release
 
 If you use or reference **DBM-COT v1.1** in academic work, research reports, or derivative projects, please cite the archived release via Zenodo:
 
