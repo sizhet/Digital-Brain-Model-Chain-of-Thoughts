@@ -119,3 +119,9 @@ you enter **Structural Intelligence**.
 | Self-Evolving Intelligence	        | Intelligence as a system	         | #163, #165 | #150 |
 
 
+## Correspondence
+
+For academic correspondence, collaboration, or citation-related inquiries:
+
+Sizhe Tan  
+Email: contact@digitalbrainmodel-ai.com

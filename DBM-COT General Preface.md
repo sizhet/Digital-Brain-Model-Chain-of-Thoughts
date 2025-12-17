@@ -119,3 +119,8 @@ The journey from zero to a full incremental intelligence system is preserved her
 
 This Preface marks the starting point of DBM-COT.
 From here, DBM’s structural and evolutionary intelligence will continue to grow—verifiable, constructive, and extensible.
+
+
+Sizhe Tan  
+Digital Brain Model (DBM)  
+Correspondence: contact@digitalbrainmodel-ai.com
