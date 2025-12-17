@@ -118,6 +118,15 @@ you enter **Structural Intelligence**.
 | Structural Matching Principle	      | Intelligence starts from structure | #53, #61 | #62 |
 | Self-Evolving Intelligence	        | Intelligence as a system	         | #163, #165 | #150 |
 
+### How to Cite This Release
+
+If you use or reference **DBM-COT v1.1** in academic work, research reports, or derivative projects, please cite the archived release via Zenodo:
+
+**Digital Brain Model – Chain of Thoughts (DBM-COT), v1.1.**
+Zenodo.
+DOI: *[insert your DOI here]*
+
+This DOI refers to the archived snapshot of the v1.1 release and should be used for all formal citations.
 
 ## Correspondence
 
