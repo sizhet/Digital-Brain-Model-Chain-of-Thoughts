@@ -120,6 +120,27 @@ The journey from zero to a full incremental intelligence system is preserved her
 This Preface marks the starting point of DBM-COT.
 From here, DBM’s structural and evolutionary intelligence will continue to grow—verifiable, constructive, and extensible.
 
+## Human–AI Collaboration Disclosure
+
+English (Canonical Version)
+
+This project was developed through extensive human–AI collaborative research, primarily involving iterative discussions between the author and a large language model (ChatGPT).
+
+The AI system contributed to ideation, structural exploration, algorithmic abstraction, code skeleton drafting, and documentation refinement. All final architectural decisions, conceptual framing, naming conventions, validation criteria, and release selections were made and curated by the human author.
+
+Raw conversational logs generated during this collaboration are not published as part of this repository or DOI release. This decision is based on:
+
+Platform dependency and lack of long-term archival guarantees;
+
+File size and practical accessibility constraints;
+
+The distinction between exploratory process logs and canonical research artifacts.
+
+Instead, insights originating from these discussions have been systematically distilled, edited, and formalized into structured ITEMS, diagrams, and code artifacts contained in this repository.
+
+This approach follows established scholarly practice, where drafts, informal notes, and exploratory exchanges inform—but do not replace—final, citable research outputs.
+
+---
 
 Sizhe Tan  
 Digital Brain Model (DBM)  
