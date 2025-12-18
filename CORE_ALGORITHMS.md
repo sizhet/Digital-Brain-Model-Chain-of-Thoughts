@@ -87,6 +87,12 @@
 
 ---
 
+### Methodology & Evolution (Conceptual Governance Layer)
+
+* This group collects ITEMS that define how DBM evolves, stabilizes, and governs its own research process.
+
+---
+
 ## Closing Note
 
 Each algorithm in DBM exists not in isolation,
@@ -122,3 +128,12 @@ Event Language Model	| #157, #158	| #53
 ACLM / CCGL / Dual-CCGL	| #125, #126, #147	| #157
 Fusion Cortex	| #58, #149	| #126
 APGOE	| #163, #168	| #149
+
+### Methodology & Evolution (L2)
+|Algorithm	| ITEM#	| Depends On |
+|:----------|:------|:-----------|
+Construct–Deconstruct Intelligence (CDI) | #154 |  
+Structural Intelligence Definition | #159 |
+Structural Intelligence vs Symbolic and Connectionist AI | #160
+From COT to COSt to COSo | #171 |
+From “Primary Peaks” to Revisiting Secondary Problems | #172 
