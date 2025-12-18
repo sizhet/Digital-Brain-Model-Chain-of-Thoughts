@@ -5726,4 +5726,18 @@ Upstream: Civilization-scale reasoning (#165)
 
 Cross-links: Human–AI co-evolution (#167)
 
+===========================================
+### ITEM #171 — From COT to COSt to COSo: A Perspective View or a Way of Evolution
+===========================================
 
+Category: Structural Intelligence · Evolution Law
+
+Summary: Establishes the minimal-threshold evolutionary chain from thoughts to structures to solutions, formalizing the chain-based rule underlying DBM.
+
+===========================================
+### ITEM #172 — 2026: From “Primary Peaks” to Revisiting Secondary Problems
+===========================================
+
+Category: DBM Methodology · Research Strategy
+
+Summary: Defines the post-completion research phase of DBM, shifting focus from primary paradigm discovery to systematic consolidation and refinement.

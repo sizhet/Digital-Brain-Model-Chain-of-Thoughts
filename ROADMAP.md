@@ -120,6 +120,6 @@ CCC (Common Concept Core)	| Structural mean / core	| #52, #54	| #62
 |:----------|:-------------|:-----------|:---------------|
 Rules Engines	| Structural reasoning	| #51, #55	| #52
 Event Language Model (ELM)	| Lossless event semantics	| #157, #158	| #53
-ACLM / CCGL	| Structural programming	| #125, #126, #147	| #157
+ACLM / CCGL	| Structural programming	| #125, #126, #147, #171 | #157
 Fusion Cortex	| Multi-engine coordination	| #58, #149	| #126
 APGOE	| Autonomous evolution engine	| #163, #168	| #149

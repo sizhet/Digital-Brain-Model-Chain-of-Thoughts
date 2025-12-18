@@ -63,3 +63,4 @@ ITEM#	| Title (Short)	| L-Tag	| Core Component
 #166    | Lossless Membership Ladder for ACLM and Beyond | L2 | IR Layer 
 #168	| CCC Evolution Evaluator	| L2	| APGOE (Governance Layer)
 #159    | The New Frontier of Structural Intelligence | L2	| All Core DBM Structures
+#171    | From COT to COSt to COSo: A Perspective View or a Way of Evolution | L2 | Dual CCGL for ACLM 
