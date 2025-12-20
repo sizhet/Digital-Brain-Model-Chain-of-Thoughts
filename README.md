@@ -142,13 +142,13 @@ you enter **Structural Intelligence**.
 
 This release of **DBM-COT (v1.1)** is archived and citable via Zenodo:
 
-**DOI:** *[insert your DOI here]*
+**DOI:** *[10.5281/zenodo.18004037]*
 
 If you use or reference **DBM-COT v1.1** in academic work, research reports, or derivative projects, please cite the archived release via Zenodo:
 
 **Digital Brain Model – Chain of Thoughts (DBM-COT), v1.1.**
 Zenodo.
-DOI: *[insert your DOI here]*
+DOI: *[10.5281/zenodo.18004037]*
 
 This DOI refers to the archived snapshot of the v1.1 release and should be used for all formal citations.
 
