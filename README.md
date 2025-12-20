@@ -144,10 +144,6 @@ This release of **DBM-COT (v1.1)** is archived and citable via Zenodo:
 
 **DOI:** *[insert your DOI here]*
 
-If you use or reference this work, please cite the DOI above.
-
-## How to Cite This Release
-
 If you use or reference **DBM-COT v1.1** in academic work, research reports, or derivative projects, please cite the archived release via Zenodo:
 
 **Digital Brain Model – Chain of Thoughts (DBM-COT), v1.1.**
