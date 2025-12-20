@@ -87,8 +87,6 @@ It is intended as a long-term reference that survives model generations.
 
 ## Human–AI Collaboration Disclosure
 
-English (Canonical Version)
-
 This project was developed through extensive human–AI collaborative research, primarily involving iterative discussions between the author and a large language model (ChatGPT).
 
 The AI system contributed to ideation, structural exploration, algorithmic abstraction, code skeleton drafting, and documentation refinement. All final architectural decisions, conceptual framing, naming conventions, validation criteria, and release selections were made and curated by the human author.
