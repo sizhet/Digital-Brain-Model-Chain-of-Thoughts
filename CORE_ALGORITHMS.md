@@ -4,6 +4,10 @@
 
 ---
 
+﻿<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/113c7002-9ff8-4620-9681-e40f962c7693" />
+
+---
+
 ## L0 — Spatial Organization Algorithms
 
 ### Variable-Size Blocks Index and Search
