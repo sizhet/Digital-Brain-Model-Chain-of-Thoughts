@@ -1,4 +1,4 @@
-# DBM-COT Summary Book v1.1 — English Edition
+# DBM-COT Summary Book v1.1
 
 ## Batch A: Preface + ITEM #1–#20
 Digital Brain Model — Chain of Thought (COT)
