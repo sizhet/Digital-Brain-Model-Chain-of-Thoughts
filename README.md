@@ -53,6 +53,8 @@ Unlike traditional AI paradigms:
 
 DBM treats **structure itself as the first-class object of intelligence**.
 
+﻿<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/113c7002-9ff8-4620-9681-e40f962c7693" />
+
 ---
 
 ## Why Structural Intelligence?
