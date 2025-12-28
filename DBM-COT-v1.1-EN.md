@@ -33,8 +33,10 @@ Lists core terms and later-clarified concepts.
 
 DBM-COT v1.1 is no longer merely a list—it is a structural map of the evolution of an entire research framework, resembling a differential tree of scientific ideas themselves.
 
+﻿<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/113c7002-9ff8-4620-9681-e40f962c7693" />
+ 
 =====================================================
-## ITEM #1–#20 (Enhanced Edition)
+## ITEM #1–#20 
 =====================================================
 
 Below begins the full enhanced content.
