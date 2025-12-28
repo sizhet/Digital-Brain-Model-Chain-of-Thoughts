@@ -1,6 +1,6 @@
 # DBM-COT Summary Book v1.1 — English Edition
 
-## Batch A: Preface + ITEM #1–#20（Enhanced Edition）
+## Batch A: Preface + ITEM #1–#20
 Digital Brain Model — Chain of Thought (COT)
 Authors: Sizhe Tan & GPT-Obot
 A4 Academic Format
