@@ -162,9 +162,9 @@ DBM 在这一阶段完成了从探索到自洽的跃迁。
 
 ## Appendix: Items #138–#244 Titles
 
-ITEM #137 — ACLM 作为 AI 的普适性推理语言
+ITEM #137 — ACLM as the Universal Reasoning Language for AI
 
-ITEM #138 — ACLM 推理引擎实现蓝图
+ITEM #138 — ACLM Reasoning Engine Implementation Blueprint
 
 ITEM #139 — ACLM as the Universal Reasoning Language for AI （Conference Abstract and Slides)
 
@@ -172,7 +172,7 @@ ITEM #140 — ACLM Horizontal Mutation- Operation State Completion Engine
 
 ITEM #141 — Missing-Strands Reconstruction Algorithm
 
-ITEM #142 — ACLM Self-Repair Loop (SRL) and 核心模型：Strand : Operation : Graph 结构
+ITEM #142 — ACLM Self-Repair Loop (SRL) and Core Model：Strand : Operation : Graph Structure
 
 ITEM #143 — ACLM:CCGL Operation & Argument Tagging Framework
 
@@ -210,7 +210,7 @@ ITEM #159 — The New Frontier of Structural Intelligence
 
 ITEM #160 — Structural Intelligence vs Symbolic : Connectionist
 
-ITEM #161 — Structural Intelligence 的十大工程落地场景
+ITEM #161 — Top 10 Engineering Applications of Structural Intelligence
 
 ITEM #162 — Why LLM Cannot Reach Structural Intelligence
 
