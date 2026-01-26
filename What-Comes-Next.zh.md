@@ -1,5 +1,5 @@
 # What Comes Next
-## 从基础骨架到结构收敛 —— DBM-COT Items #138–#244 导读
+## 从基础骨架到结构收敛 —— DBM-COT Items #138–#247 导读
 
 > 本文件面向 **GitHub / Zenodo / 新读者**  
 > 用于解释：在 DBM-COT Items #1–#137 之后，体系发生了什么，以及为何重要。
@@ -19,7 +19,7 @@
 
 > **接下来发生了什么？**
 
-**Items #138–#244 正是这个问题的答案。**
+**Items #138–#247 正是这个问题的答案。**
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 二、Items #138–#244 的六条收敛主线
+## 二、Items #138–#247 的六条收敛主线
 
 这 100+ 个 ITEM 并非 100 条新方向，  
 而是**少数几条主线在不同层级的反复验证与落地**。
@@ -126,7 +126,7 @@ ACLM 不再只是“如何推理”，
 
 > “我们提出了一种新的智能可能性”
 
-那么 **Items #138–#244** 是：
+那么 **Items #138–#247** 是：
 
 > “我们对这个可能性负责到底”
 
@@ -154,13 +154,13 @@ DBM 在这一阶段完成了从探索到自洽的跃迁。
 
 > **如果 DBM-COT #1–#137 回答的是  
 “结构智能是否存在”，  
-那么 #138–#244 回答的是  
+那么 #138–#247 回答的是  
 “它是否能在现实中活下来”。**
 
 
 ---
 
-## Appendix: Items #138–#244 Titles
+## Appendix: Items #138–#247 Titles
 
 ITEM #137 — ACLM as the Universal Reasoning Language for AI
 
@@ -375,4 +375,10 @@ ITEM #242 - Taming the Sequence “Thousand-Claw Dragon”: A Non-Combinatorial�
 ITEM #243 - DBM Structure Intelligence Agent - From Algorithms to Agents, from Intelligence to Transferable Structure
 
 ITEM #244 - DBM-SIA and the Paradigm of Evolutionary Open-Source Systems
+
+ITEM #245 - A Unified Algorithmic Model of LLM and DBM - Two-Phase Intelligence as a Shared Structural Archetype
+
+ITEM #246 - Structural Tensions Between RAG, Continual Learning, and Backprop-Based Generalization - Why These Conflicts Are Fundamental — and How to Engineer Around Them
+
+ITEM #247 - AI Safety Beyond Prompts - RAG-Based Education, Structural Governance, and DBM as a Civilization Layer
 

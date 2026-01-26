@@ -1,5 +1,5 @@
 # What Comes Next
-## From Foundations to Structural Convergence — A Guide to DBM-COT Items #138–#244
+## From Foundations to Structural Convergence — A Guide to DBM-COT Items #138–#247
 
 > This document is for **GitHub / Zenodo / new readers**  
 > It explains what happened after DBM-COT Items #1–#137, and why it matters.
@@ -19,7 +19,7 @@ A natural question follows:
 
 > **What comes next?**
 
-**Items #138–#244 are the answer.**
+**Items #138–#247 are the answer.**
 
 ---
 
@@ -42,7 +42,7 @@ but **high-density structural convergence under pressure**.
 
 ---
 
-## II. Six Converging Threads in Items #138–#244
+## II. Six Converging Threads in Items #138–#247
 
 These 100+ items do not represent 100 directions,  
 but a **small number of tightly coupled trajectories**.
@@ -116,7 +116,7 @@ The same structural cores reappear across domains.
 ## III. What Does This Mean?
 
 If **Items #1–#137** proposed a new intelligence possibility,  
-**Items #138–#244** test whether it can **survive reality**.
+**Items #138–#247** test whether it can **survive reality**.
 
 This phase marks DBM’s transition into a  
 **self-consistent, inheritable, and evolvable system**.
@@ -142,11 +142,11 @@ This phase marks DBM’s transition into a
 ## One-Line Summary
 
 > **If DBM-COT #1–#137 asked whether structural intelligence exists,  
-### #138–#244 ask whether it can survive reality.**
+### #138–#247 ask whether it can survive reality.**
 
 ---
 
-## Appendix: Items #138–#244 Titles
+## Appendix: Items #138–#247 Titles
 
 ITEM #137 — ACLM as the Universal Reasoning Language for AI
 
@@ -362,3 +362,8 @@ ITEM #243 - DBM Structure Intelligence Agent - From Algorithms to Agents, from I
 
 ITEM #244 - DBM-SIA and the Paradigm of Evolutionary Open-Source Systems
 
+ITEM #245 - A Unified Algorithmic Model of LLM and DBM - Two-Phase Intelligence as a Shared Structural Archetype
+
+ITEM #246 - Structural Tensions Between RAG, Continual Learning, and Backprop-Based Generalization - Why These Conflicts Are Fundamental — and How to Engineer Around Them
+
+ITEM #247 - AI Safety Beyond Prompts - RAG-Based Education, Structural Governance, and DBM as a Civilization Layer
