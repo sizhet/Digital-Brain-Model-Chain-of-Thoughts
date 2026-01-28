@@ -62,7 +62,7 @@ These ITEMS are **not final answers**, but starting points.
 
 After ITEM #137, DBM-COT enters a new phase.
 
-**ITEMs #138–#247** focus on:
+**ITEMs #138–#251** focus on:
 - structural convergence  
 - engineering survivability  
 - cross-domain reuse  
@@ -72,7 +72,7 @@ After ITEM #137, DBM-COT enters a new phase.
 **[`What-Comes-Next.md`](./What-Comes-Next.en.md)**
 
 > If DBM-COT #1–#137 asked whether structural intelligence exists,  
-> #138–#247 ask whether it can survive reality.
+> #138–#251 ask whether it can survive reality.
 
 ---
 
