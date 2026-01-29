@@ -1,5 +1,5 @@
 # What Comes Next
-## From Foundations to Structural Convergence — A Guide to DBM-COT Items #138–#251
+## From Foundations to Structural Convergence — A Guide to DBM-COT Items #138–#252
 
 > This document is for **GitHub / Zenodo / new readers**  
 > It explains what happened after DBM-COT Items #1–#137, and why it matters.
@@ -19,7 +19,7 @@ A natural question follows:
 
 > **What comes next?**
 
-**Items #138–#251 are the answer.**
+**Items #138–#252 are the answer.**
 
 ---
 
@@ -42,7 +42,7 @@ but **high-density structural convergence under pressure**.
 
 ---
 
-## II. Six Converging Threads in Items #138–#251
+## II. Six Converging Threads in Items #138–#252
 
 These 100+ items do not represent 100 directions,  
 but a **small number of tightly coupled trajectories**.
@@ -116,7 +116,7 @@ The same structural cores reappear across domains.
 ## III. What Does This Mean?
 
 If **Items #1–#137** proposed a new intelligence possibility,  
-**Items #138–#251** test whether it can **survive reality**.
+**Items #138–#252** test whether it can **survive reality**.
 
 This phase marks DBM’s transition into a  
 **self-consistent, inheritable, and evolvable system**.
@@ -142,11 +142,11 @@ This phase marks DBM’s transition into a
 ## One-Line Summary
 
 > **If DBM-COT #1–#137 asked whether structural intelligence exists,  
-### #138–#251 ask whether it can survive reality.**
+### #138–#252 ask whether it can survive reality.**
 
 ---
 
-## Appendix: Items #138–#251 Titles
+## Appendix: Items #138–#252 Titles
 
 ITEM #137 — ACLM as the Universal Reasoning Language for AI
 
@@ -377,3 +377,5 @@ ITEM #249 - CCC Density, Deductive Weakness, and LLM Path Selection - Why High-L
 ITEM #250 - CCC Cache Overflow and the Law of Intelligence Degradation - When Excessive Cognitive Compression Undermines Reasoning Systems
 
 ITEM #251 - CCC Authority Drift in LLM Systems - Why RAG, Precedent-Style Training, and Self-Generated Examples Do Not Create New Intelligence
+
+ITEM #252 - AI Panorama Map- A Structural, Layered Cartography of Artificial Intelligence
