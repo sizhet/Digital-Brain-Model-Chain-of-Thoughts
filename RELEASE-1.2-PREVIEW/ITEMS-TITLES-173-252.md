@@ -1,0 +1,113 @@
+# Release 1.2 – ITEM Titles Index (ITEM #173–#252)
+
+---
+
+- **ITEM #173** — IRStarmap: A General IR Layer for Structural Intelligence  
+- **ITEM #174** — Yann LeCun’s AI Trajectory and the Strategic Window for DBM  
+- **ITEM #175** — 2026 DBM Roadmap: From Chain of Thoughts to Chain of Solutions  
+- **ITEM #176** — The Limits of World-Model Simulation and the Myth of Replaying Human Evolution  
+
+- **ITEM #177** — ACLM Generative SOS and Gap Geometry: From Path Search to Evolutionary Bridging  
+- **ITEM #178** — ACLM Horizontal Mutations via Unaligned AND: From Cantilever Evolution to Simply-Supported Structural Bridging  
+
+- **ITEM #179** — Structure as the Carrier of Intelligence  
+- **ITEM #180** — CCC as the Compression Core of Structural Intelligence  
+- **ITEM #181** — Dormant Agents and the Ontology of Latent Intelligence  
+
+- **ITEM #182** — DBM Code Foundations (Part I)  
+- **ITEM #183** — DBM Code Foundations (Part II)  
+- **ITEM #184** — Duality of DBM: ACLM Structural Intelligence and LLM Generative Intelligence  
+
+- **ITEM #185** — Guided ACLM Vertical Bridging by Metric Differential Tree  
+- **ITEM #186** — LLM as How-Machine vs DBM as What-Engine  
+- **ITEM #187** — The “AI Does HOW, Humans Do WHAT” Fallacy: Why This Is a Misreading of LLM Limitations, Not a Law of Intelligence  
+
+- **ITEM #188** — From Exact Calling Path to Feasible Calling Path  
+- **ITEM #189** — Existing Calling Path Bridging: A Structural Launch Algorithm for ACLM Gap Bridging  
+- **ITEM #190** — Feasible Horizontal Bridging Path Trimmer  
+- **ITEM #191** — Strand Decomposition for Horizontal Bridging  
+
+- **ITEM #192** — AGI Time Windows vs Structural Readiness  
+- **ITEM #193** — The Turing Window Fallacy vs Structural Intelligence  
+- **ITEM #194** — Post-Turing Evaluation: Entropy, Structure, and Self-Consistent Intelligence  
+- **ITEM #195** — Fear-Driven Intelligence: How Tool-Only AI Leads to a Two-Layer Servitude Society  
+
+- **ITEM #196** — CCC as Post-hoc Evolutionary Structure in DBM  
+- **ITEM #197** — Sequence, Graph, and Image: A Year-End Structural Reflection on DBM (2025)  
+- **ITEM #198** — DBM and the Measure of Intelligence: External Alignment and Validation Against Contemporary Intelligence Theory  
+
+- **ITEM #199** — ACLM Vertical Bridging: Biomimetic Zoom-In Simplification and Anchor-Based Construction  
+- **ITEM #200** — Knowing–Doing Co-Progress Intelligence (KD-CPI): Decision and Action Under Fuzzy Metrics and Competitive Constraints  
+- **ITEM #201** — Revisiting LLM Evaluation Through the Lens of Knowing–Doing Co-Progress Intelligence (KD-CPI)  
+- **ITEM #202** — A Unified Evaluation Framework for Three Intelligence Paradigms: Statistical, Structural, and Knowing–Doing Co-Progress Intelligence  
+
+- **ITEM #203** — ACLM–LLM Bridge: Using LLMs as KD-CPI Probes for Operation(X)→Y Under Structural Governance  
+- **ITEM #204** — Visual Illusion as Evidence of Minimal Evolution Threshold  
+- **ITEM #205** — Minimal Self-Evolving Intelligence: A Paradigm Manifesto Beyond Anthropocentric AI  
+
+- **ITEM #206** — SOS Ternary Mutual Inference for ACLM Gap Bridging  
+- **ITEM #207** — Beyond “Compression = Intelligence”: A DBM Critique of Hinton-Style Next-Token Reductionism  
+- **ITEM #208** — DBM-COT Children & Early-Stage Cognitive Games  
+
+- **ITEM #209** — Metric Tree to Euclidean Tree Conversion  
+- **ITEM #210** — From the Absence of Backpropagation in the Brain to the Principle-Level Division of Labor between LLM and DBM  
+- **ITEM #211** — Structural Intelligence Across Internal and External Paths: DBM, Inheritance, Learning, and Civilization-Level Accumulation  
+- **ITEM #212** — LLM + DBM as a Replication Path of Human Intelligence: Externalized Structure and Internal Generation  
+- **ITEM #213** — Why LLM-Only AGI Is Not True AGI: Perspective-Bound Intelligence and the Necessity of DBM  
+
+- **ITEM #214** — A Next-Generation X-Features IR & Interaction Architecture: Structural Anchoring, External Events, and Controlled Evolution  
+- **ITEM #215** — Op(X) → Y as the Next Growth Axis: Structural Self-Explanation Beyond Bottom-Up and Top-Down  
+
+- **ITEM #216** — LHS × Features IR Generation and Distributed Architecture Design  
+- **ITEM #217** — Why Time Series Have Not Exhibited Emergent Intelligence: A Structural Analysis from the Metric Space Perspective  
+- **ITEM #218** — Third-Person Perspective, Anti-Minimal-Evolution Algorithms, and Their Role in the Total Intelligence Landscape  
+
+- **ITEM #219** — Time-Series IR Top Requirements: Task–Action Dual ACLM and Flow-Shop Runtime Architecture  
+- **ITEM #220** — Pattern Family Augmentation for Structural Indexing in Time-Series IR Systems  
+- **ITEM #221** — Full Application Stack of Time-Series IR Systems: From Offline Structural Discovery to Online Metric-Space Decision Loops  
+
+- **ITEM #222** — Observer-Centric Trajectory Time-Series IR and Structural Intelligence for Flight and Animal Motion  
+- **ITEM #223** — Observer-Centric Trajectory Time-Series IR Schema  
+- **ITEM #224** — Observer-Centric Trajectory Known Pattern Families  
+- **ITEM #225** — Hybrid DBM × LLM Continuation: Proposal–Adjudication Architecture for Trajectory Prediction  
+
+- **ITEM #226** — Non-Numeric Time-Series IR & Structural Causality  
+- **ITEM #227** — Motion Trajectory as Time-Series IR: Minimal Differential Primitives for Physical and Biological Movement  
+- **ITEM #228** — Motion Time-Series IR in Interaction and Physical Fields: Relational and Background Structures  
+
+- **ITEM #229** — UnalignedAND-BTP Fish-Control Backbone: Exactness Guards, Recall Modes, and Anti-Leak Contracts  
+- **ITEM #230** — RTB Acceleration for UnalignedAND-BTP  
+- **ITEM #231** — LLM–DBM Dual-Run Architecture: Differential-Tree–Grounded Reasoning for 2026 Applications  
+
+- **ITEM #232** — Resonance with Frontier Researchers: From Technical Empathy to Structural Completion  
+- **ITEM #233** — DNA → Morphology CCC: Structural Intelligence for Polygenic Phenotype Reconstruction  
+
+- **ITEM #234** — Hybrid Early-Stop Acceleration for UnalignedAND-BTP (Large-vs-Large)  
+- **ITEM #235** — Hybrid Tree of Euclidean Differential Tree and Metric Differential Tree  
+- **ITEM #236** — Two-Ways CCC Test Algorithm for Functional DNA Signal Detection  
+
+- **ITEM #237** — Mapping Engram N-Gram Conditional Memory into Differential-Tree Leaf Statistical Layers  
+- **ITEM #238** — Structural Conflict Under Asymmetric Control: CCC, Synthetic Ideology, and Internal Tension in Advanced AI Systems  
+
+- **ITEM #239** — Karpathy 2025: Software 3.0, LLM-as-OS, MCP, and Jagged Intelligence — A DBM/ACLM Reinterpretation  
+- **ITEM #240** — Sequence CCC, Hydra Explosion, and the Minimal Evolution Threshold Solution  
+
+- **ITEM #241** — Late Structural Insight: Why LLM “Emergence” Fails the Cartesian Self Test  
+- **ITEM #242** — Sequence CCC Kernel: A Cross-Domain CCC Core for DNA, ACLM Calling Graph, and LLM Span Mining  
+
+- **ITEM #243** — Roadmap 2026 (Phase I): DOI Release, Sequence CCC Deployment, Time-Series IR Pipelines, and ACLM Follow-Up  
+
+- **ITEM #244** — Taming the Sequence “Thousand-Claw Dragon”: A Non-Combinatorial Path to Sequence Intelligence  
+
+- **ITEM #245** — DBM Structure Intelligence Agent: From Algorithms to Agents, from Intelligence to Transferable Structure  
+- **ITEM #246** — DBM-SIA and the Paradigm of Evolutionary Open-Source Systems  
+- **ITEM #247** — DBM-SIA Manifesto: An Evolutionary Open-Source Paradigm  
+
+- **ITEM #248** — A Unified Algorithmic Model of LLM and DBM: Two-Phase Intelligence as a Shared Structural Archetype  
+- **ITEM #249** — Structural Tensions Between RAG, Continual Learning, and Backprop-Based Generalization  
+
+- **ITEM #250** — AI Safety Beyond Prompts: RAG-Based Education, Structural Governance, and DBM as a Civilization Layer  
+- **ITEM #251** — CCC Density, Deductive Weakness, and LLM Path Selection  
+- **ITEM #252** — AI Panorama Map: A Structural, Layered Cartography of Artificial Intelligence
+
+---
