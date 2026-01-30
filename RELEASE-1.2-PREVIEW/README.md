@@ -9,13 +9,13 @@ and reusable consensus cores (CCC), rather than scale-driven parameter optimizat
 ## Dynamic Navigation (Choose Your Path)
 
 - **🧠 New Readers** → Start with the Panorama Map and the structural ontology  
-  → See: [New Readers Entry](#new-readers-entry)
+  → See: [New Readers Entry](ENTRY-RESEARCHERS.md)
 
 - **⚙️ Engineers** → Start with IR, algorithms, and “fish-control” search backbones  
-  → See: [Engineers Entry](#engineers-entry)
+  → See: [Engineers Entry](ENTRY-ENGINEERS.md)
 
 - **📚 Researchers** → Start with ontology, evaluation, and post-Turing intelligence  
-  → See: [Researchers Entry](#researchers-entry)
+  → See: [Researchers Entry](ENTRY-RESEARCHERS.md)
 
 ---
 
