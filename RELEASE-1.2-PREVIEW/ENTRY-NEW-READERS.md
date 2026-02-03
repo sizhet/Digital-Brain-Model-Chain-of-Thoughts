@@ -10,6 +10,8 @@ Structure as the Carrier of Intelligence — ITEM #179
 
 CCC as the Compression Core — ITEM #180
 
+Two-ways CCC as the general comparative study engine for structural signals — ITEM #254
+
 IRStarmap — ITEM #173
 
 ### Key Idea

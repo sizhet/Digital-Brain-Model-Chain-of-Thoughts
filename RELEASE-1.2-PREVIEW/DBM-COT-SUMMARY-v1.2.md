@@ -337,4 +337,13 @@ Explains how excessive CCC density degrades deductive reasoning.
 ITEM #252
 Presents the full AI Panorama Map as a layered structural cartography.
 
+ITEM #253
+Discusses minimal evolution threshold, path dependency, and the limits of world models.
+
+ITEM #254
+Explains the algorithm of two-ways CCC over starmap spaces: a general comparative study engine for structural signals.
+
+ITEM #255
+Discusses the most likely and effective AI governance paradigm without damaging AI development.
+
 ---

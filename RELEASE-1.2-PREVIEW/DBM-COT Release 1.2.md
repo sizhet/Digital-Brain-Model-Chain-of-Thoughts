@@ -1,7 +1,7 @@
 ## 🚀 DBM-COT Release 1.2 (Panorama Preview)
 
 This release introduces the **AI 4-Layers Panorama Map** and a structurally aligned
-preview of DBM-COT ITEM #173–#252.
+preview of DBM-COT ITEM #173–#255.
 
 Release 1.2 does **not** replace Release 1.1.  
 Instead, it provides a **global coordinate system** that makes the entire DBM
@@ -47,4 +47,4 @@ RELEASE-1.1/              # Frozen foundations
 RELEASE-1.2-PREVIEW/      # Panorama-aligned preview
   ├── INDEX/              # ITEM listings
   ├── SUMMARY/            # DBM-COT Summary Book v1.2
-  └── ITEMS/              # ITEM #173–#252
+  └── ITEMS/              # ITEM #173–#255

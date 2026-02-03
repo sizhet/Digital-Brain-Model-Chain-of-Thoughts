@@ -33,7 +33,7 @@ and reusable consensus cores (CCC), rather than scale-driven parameter optimizat
 ## Releases
 
 - **Release 1.1**: Frozen foundations (ITEM #001–#172)
-- **Release 1.2 (Preview)**: Panorama-aligned index + summaries + ITEMS (#173–#252)
+- **Release 1.2 (Preview)**: Panorama-aligned index + summaries + ITEMS (#173–#255)
 
 > Release 1.2 does **not** rewrite 1.1.  
 > It provides the **global coordinate system** (AI Panorama Map) so readers can navigate DBM coherently.
@@ -48,5 +48,5 @@ DBM-COT/
 ├── RELEASE-1.2-PREVIEW/      # Panorama-aligned preview
 │   ├── INDEX/                # ITEM listings and titles
 │   ├── SUMMARY/              # DBM-COT Summary Book v1.2
-│   └── ITEMS/                # Individual ITEM documents (#173–#252)
+│   └── ITEMS/                # Individual ITEM documents (#173–#255)
 └── shared-assets/            # Diagrams, figures, schemas

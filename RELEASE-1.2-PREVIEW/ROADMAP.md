@@ -85,6 +85,8 @@ Representative ITEMS:
 - #245–#247 DBM-SIA
 - #250 AI Safety Beyond Prompts
 - #252 AI Panorama Map
+- #254 Two-ways CCC as the general comparative study engine for structural signals — ITEM #254
+
 
 Status: 🌍 Early emergence, long-term direction set
 

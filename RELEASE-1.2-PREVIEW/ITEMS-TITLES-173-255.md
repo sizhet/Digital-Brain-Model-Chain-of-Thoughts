@@ -1,4 +1,4 @@
-# Release 1.2 – ITEM Titles Index (ITEM #173–#252)
+# Release 1.2 – ITEM Titles Index (ITEM #173–#255)
 
 ---
 
@@ -109,5 +109,9 @@
 - **ITEM #250** — AI Safety Beyond Prompts: RAG-Based Education, Structural Governance, and DBM as a Civilization Layer  
 - **ITEM #251** — CCC Density, Deductive Weakness, and LLM Path Selection  
 - **ITEM #252** — AI Panorama Map: A Structural, Layered Cartography of Artificial Intelligence
+
+- **ITEM #253** - Minimal Evolution Threshold, Path Dependency, and the Limits of World Models .pdf
+- **ITEM #254** - Two-Ways CCC over Starmap Spaces- A General Comparative Study Engine for Structural Signals.pdf
+- **ITEM #255** - The Most Likely and Effective AI Governance Paradigm Without Damaging AI Development.pdf
 
 ---

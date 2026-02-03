@@ -14,6 +14,8 @@ Cross-domain Consensus: ITEM #240
 
 Anti-combinatorics Flagship: ITEM #242
 
+Structural signals comparative study engine: ITEM #254
+
 DBM-COA Alignment
 
 DBM-COA contains reference implementations mapped from the Summary Book (v1.2).

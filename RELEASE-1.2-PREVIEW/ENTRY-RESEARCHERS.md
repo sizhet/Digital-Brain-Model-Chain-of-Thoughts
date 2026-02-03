@@ -21,3 +21,5 @@ Evaluation: ITEM #200–#202
 Post-Turing: ITEM #192–#195
 
 Panorama positioning: ITEM #252
+
+Structural signals comparative study engine: ITEM #254
