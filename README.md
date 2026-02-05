@@ -140,6 +140,16 @@ you enter **Structural Intelligence**.
 | Structural Matching Principle	      | Intelligence starts from structure | #53, #61 | #62 |
 | Self-Evolving Intelligence	        | Intelligence as a system	         | #163, #165 | #150 |
 
+
+## ⚠️ Note on GitHub PDF Rendering
+
+Some PDF files in this repository may **not render correctly in GitHub’s online viewer**
+due to platform limitations (fonts, annotations, size).
+
+**Recommended: download the repository** and read PDFs locally.
+
+This is a GitHub platform constraint, not a document integrity issue.
+
 ## Citation / DOI
 
 This release of **DBM-COT (v1.1)** is archived and citable via Zenodo:

@@ -153,3 +153,26 @@ DBM-COT/
 │   ├── SUMMARY/              # DBM-COT Summary Book v1.2
 │   └── ITEMS/                # ITEM & Conversation PDFs (#173–#255)
 └── shared-assets/            # Diagrams, figures, schemas
+
+
+## Citation / DOI
+
+This release of **DBM-COT (v1.1)** is archived and citable via Zenodo:
+
+**DOI:** *[10.5281/zenodo.18004037]*
+
+If you use or reference **DBM-COT v1.1** in academic work, research reports, or derivative projects, please cite the archived release via Zenodo:
+
+**Digital Brain Model – Chain of Thoughts (DBM-COT), v1.1.**
+Zenodo.
+DOI: *[10.5281/zenodo.18004037]*
+
+This DOI refers to the archived snapshot of the v1.1 release and should be used for all formal citations.
+
+
+## Correspondence
+
+For academic correspondence, collaboration, or citation-related inquiries:
+
+Sizhe Tan  
+Email: contact@digitalbrainmodel-ai.com
