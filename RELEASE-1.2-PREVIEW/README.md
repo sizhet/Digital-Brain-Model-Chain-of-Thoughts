@@ -35,15 +35,17 @@ Release v1.2 extends the conceptual baseline established in v1.1 with:
 
 This release of **DBM-COT (v1.2)** is archived and citable via Zenodo:
 
-**DOI:** *[10.5281/zenodo.18004037]*
+**DOI:** *[10.5281/zenodo.18510683]*
+
+https://doi.org/10.5281/zenodo.18510683
 
 If you use or reference **DBM-COT v1.2** in academic work, research reports, or derivative projects, please cite the archived release via Zenodo:
 
 **Digital Brain Model – Chain of Thoughts (DBM-COT), v1.2.**
 Zenodo.
-DOI: *[10.5281/zenodo.18004037]*
+DOI: *[10.5281/zenodo.18510683]*
 
-This DOI refers to the archived snapshot of the v1.1 release and should be used for all formal citations.
+This DOI refers to the archived snapshot of the v1.2 release and should be used for all formal citations.
 
 ---
 

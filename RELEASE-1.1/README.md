@@ -164,6 +164,9 @@ DOI: *[10.5281/zenodo.18004037]*
 
 This DOI refers to the archived snapshot of the v1.1 release and should be used for all formal citations.
 
+Newer release available:
+DBM-COT v1.2 DOI: https://doi.org/10.5281/zenodo.18510683
+
 ## Correspondence
 
 For academic correspondence, collaboration, or citation-related inquiries:

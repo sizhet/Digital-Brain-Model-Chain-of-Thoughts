@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "Digital Brain Model – Chain of Thought (DBM-COT)"
+message: "If you use DBM-COT in research, please cite the DOI-anchored release below."
+type: software
+
+authors:
+  - family-names: Tan
+    given-names: Sizhe
+
+repository-code: "https://github.com/sizhet/Digital-Brain-Model-Chain-of-Thoughts"
+
+version: "v1.2"
+doi: "10.5281/zenodo.18510683"
+
+license: "Apache-2.0"
+
+abstract: >
+  Digital Brain Model – Chain of Thought (DBM-COT) is a structural
+  intelligence research corpus exploring metric-space cognition,
+  differential trees, two-phases search, CCC-based structural memory,
+  and interpretable AI architectures as a third paradigm complementary
+  to symbolic and connectionist systems.
+
+keywords:
+  - Structural Intelligence
+  - Digital Brain Model
+  - DBM
+  - DBM-COT
+  - Differential Trees
+  - CCC
+  - Two-Phases Search
+  - Metric Space Reasoning
+  - Interpretable AI
+
+references:
+  - type: software
+    title: "Digital Brain Model – Chain of Thought (DBM-COT) v1.1"
+    doi: "10.5281/zenodo.18004037"

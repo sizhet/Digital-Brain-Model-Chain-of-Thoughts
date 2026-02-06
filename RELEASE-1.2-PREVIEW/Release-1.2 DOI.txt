@@ -2,7 +2,7 @@ Digital Brain Model – Chain of Thought (DBM-COT)
 Release v1.2
 
 DOI:
-TO-BE-ASSIGNED-BY-ZENODO
+https://doi.org/10.5281/zenodo.18510683
 
 Repository:
 https://github.com/sizhet/Digital-Brain-Model-Chain-of-Thoughts
@@ -15,6 +15,7 @@ Apache License 2.0
 http://www.apache.org/licenses/LICENSE-2.0
 
 Description:
-This directory is a frozen snapshot of DBM-COT Release v1.2 prepared
-for DOI assignment via Zenodo. The contents represent a stable,
-citable research corpus within the evolving Digital Brain Model project.
+This directory is a frozen DOI snapshot of DBM-COT Release v1.2.
+The contents represent a stable, citable research corpus within
+the evolving Digital Brain Model project.
+
