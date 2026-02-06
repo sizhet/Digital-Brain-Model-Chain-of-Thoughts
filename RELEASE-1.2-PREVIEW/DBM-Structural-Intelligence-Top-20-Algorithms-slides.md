@@ -1,6 +1,8 @@
 # DBM Structural Intelligence – Top 20 Algorithms
 ## From Structural Indexing to Bounded Reasoning
 
+(Presentation Slides)
+
 This document accompanies **DBM-COT Release 1.2** and serves as the official
 algorithmic overview for DBM Structural Intelligence.
 
