@@ -10,6 +10,70 @@ rather than scale-driven parameter optimization or end-to-end black-box training
 DBM-COT is not a model, not a benchmark, and not a prompt framework.  
 It is a **structural intelligence architecture**.
 
+## DBM-COT Release v1.2
+Digital Brain Model – Chain of Thought：
+Second DOI-Anchored Structural Snapshot
+
+This directory contains the frozen corpus for **DBM-COT Release v1.2**,
+prepared for DOI assignment via Zenodo.
+
+DBM-COT is a long-term research initiative exploring **Structural
+Intelligence as a third AI paradigm**, complementary to symbolic AI
+and connectionist neural models.
+
+Release v1.2 extends the conceptual baseline established in v1.1 with:
+
+- expanded structural-intelligence algorithm corpus
+- Differential Tree and Two-Phases Search refinements
+- CCC-based reasoning and Starmap representations
+- structural IR and runtime abstractions
+- LLM × DBM × Evolution paradigm analyses
+
+---
+
+## DOI
+
+This release of **DBM-COT (v1.2)** is archived and citable via Zenodo:
+
+**DOI:** *[10.5281/zenodo.18004037]*
+
+If you use or reference **DBM-COT v1.2** in academic work, research reports, or derivative projects, please cite the archived release via Zenodo:
+
+**Digital Brain Model – Chain of Thoughts (DBM-COT), v1.2.**
+Zenodo.
+DOI: *[10.5281/zenodo.18004037]*
+
+This DOI refers to the archived snapshot of the v1.1 release and should be used for all formal citations.
+
+---
+
+## Repository
+
+https://github.com/sizhet/Digital-Brain-Model-Chain-of-Thoughts
+
+---
+
+## License
+
+Apache License 2.0  
+http://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+## Status
+
+This release is a **timestamped research snapshot**, not a final version.
+The DBM project continues to evolve through future DBM-COT releases and
+companion tracks (DBM-COA and DBM-COS).
+
+---
+## Correspondence
+
+For academic correspondence, collaboration, or citation-related inquiries:
+
+Sizhe Tan  
+Email: contact@digitalbrainmodel-ai.com
+
 ---
 
 ## What Problem Does DBM Address?
@@ -140,8 +204,6 @@ This layered model is the **global coordinate system** for navigating DBM.
 > Release 1.2 does **not** rewrite Release 1.1.  
 > It makes the entire DBM system *readable and navigable*.
 
----
-
 ## Repository Structure
 
 ```text
@@ -155,24 +217,4 @@ DBM-COT/
 └── shared-assets/            # Diagrams, figures, schemas
 
 
-## Citation / DOI
 
-This release of **DBM-COT (v1.1)** is archived and citable via Zenodo:
-
-**DOI:** *[10.5281/zenodo.18004037]*
-
-If you use or reference **DBM-COT v1.1** in academic work, research reports, or derivative projects, please cite the archived release via Zenodo:
-
-**Digital Brain Model – Chain of Thoughts (DBM-COT), v1.1.**
-Zenodo.
-DOI: *[10.5281/zenodo.18004037]*
-
-This DOI refers to the archived snapshot of the v1.1 release and should be used for all formal citations.
-
-
-## Correspondence
-
-For academic correspondence, collaboration, or citation-related inquiries:
-
-Sizhe Tan  
-Email: contact@digitalbrainmodel-ai.com
