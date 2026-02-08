@@ -29,6 +29,11 @@ Each release directory has its own `README.md` and internal navigation.
 **Rule of thumb**
 - Start from a release README.
 - Use its table of contents / index to navigate ITEMs.
+---
+
+<p align="center">
+  <img src="docs/images/dbm-si-structural-octagon-teaching.png" width="720">
+</p>
 
 ---
 
@@ -97,3 +102,8 @@ See `CITATION.md` and `CITATION.cff`.
 - DBM-COS: applied solutions (planned)
 
 DBM-COT is intended to be useful even as a standalone conceptual corpus.
+
+DBM-SI Structural Coverage Index
+
+DBM-COT ITEMs are not independent notes; they collectively populate
+the eight structural faces of DBM-SI.
