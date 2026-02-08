@@ -8,6 +8,8 @@ Structural Intelligence documentation repository for the Digital Brain Model (DB
   <img src="docs/images/dbm-si-structural-octagon.png" width="720">
 </p>
 
+---
+
 <p align="center">
 <b>DBM-SI Structural Octagon</b><br>
 Eight structural components forming a coverage model for intelligence systems
