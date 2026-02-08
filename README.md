@@ -2,82 +2,51 @@
 
 Structural Intelligence documentation repository for the Digital Brain Model (DBM).
 
-DBM-COT is the **documentation and conceptual layer** of the Digital Brain Model (DBM) ecosystem: a structured collection of design notes, algorithms, diagrams, and engineering skeletons for **Structural Intelligence**.
+---
 
-This repository is organized by **release directories**. Each release provides a curated, stable snapshot.
+<p align="center">
+  <img src="docs/images/dbm-si-structural-octagon.png" width="720">
+</p>
+
+<p align="center">
+<b>DBM-SI Structural Octagon</b><br>
+Eight structural components forming a coverage model for intelligence systems
+under the <b>Minimal Evolution Threshold (MET)</b> principle.
+</p>
+
+[Download Poster (PDF)](docs/posters/DBM-SI-Structural-Octagon-Poster.pdf)
 
 ---
 
-## Start here
+## What is DBM-COT?
 
-- **START-HERE**: See **START-HERE.md** for a guided reading path and how DBM-COT is structured.
-- **Latest public release entry**:  
-  - `RELEASE-1.2-PREVIEW/README.md` (recommended starting point)  
-  - `RELEASE-1.1/README.md` (previous stable snapshot)
+DBM-COT (Chain of Thoughts) is the conceptual and architectural layer of the
+Digital Brain Model ecosystem. It organizes structural intelligence into
+modular components including localization, metric alignment, CCC formation,
+alignment dispatching, rule engines, ACLM execution graphs, IR layers, and
+evolution mechanisms.
+
+Rather than focusing on a single algorithmic paradigm, DBM-SI explores
+**structural coverage of intelligence systems**.
+
+---
+
+## Start Here
+
+If you are new to DBM-COT:
+
+- START-HERE.md
+- RELEASE-1.2-PREVIEW/README.md
 
 ---
 
 ## Releases
 
-- **RELEASE-1.2-PREVIEW**: latest evolving snapshot for public reading
-- **RELEASE-1.1**: earlier snapshot
-
-> Tip: If you are new, start from the release README first, then follow the “Reading Path” in START-HERE.
+- RELEASE-1.2-PREVIEW
+- RELEASE-1.1
 
 ---
 
-## Citation / DOI
+## DOI
 
-If you use DBM-COT in academic or technical work, please cite the Zenodo DOI:
-
-- **DOI**: 10.5281/zenodo.18510683
-
-See:
-- **CITATION.md** (recommended citation text)
-- **CITATION.cff** (GitHub citation metadata)
-
----
-
-## Discussions
-
-We welcome focused discussions, reviews, and issue-finding:
-
-- Use **GitHub Discussions** for conceptual questions, design debates, and reading guidance.
-- Use **Issues** (if enabled) for concrete bug reports (typos, broken links, structure problems).
-
-Suggested labels / tags in Discussions:
-- `reading-path`
-- `release-structure`
-- `algorithm-question`
-- `diagram`
-- `typo-or-link`
-
----
-
-## What is DBM?
-
-DBM (Digital Brain Model) is a structural approach to intelligence engineering. DBM-COT is the **“Chain of Thoughts”** layer; other planned layers include:
-
-- **DBM-COA**: Chain of Algorithms (code & runtime)
-- **DBM-COS**: Chain of Solutions (applied frameworks)
-
-DBM-COT focuses on: *clear structure, reproducible reasoning, and engineering-ready decomposition*.
-
----
-
-## License
-
-This repository is licensed under 
-**Apache License Version 2.0**
-
-See **LICENSE**.
-
----
-
-## Repository structure (top-level)
-
-- `RELEASE-*` : release snapshots
-- `START-HERE.md` : newcomer guide
-- `CITATION.*` : citation metadata
-- `LICENSE` : license text
-- `CONTRIBUTING.md` : contribution notes
+10.5281/zenodo.18510683
