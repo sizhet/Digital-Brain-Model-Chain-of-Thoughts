@@ -178,6 +178,13 @@ Explore:
 
 ---
 
+## Structural Index
+
+See:
+STRUCTURAL-OCTAGON-ITEM-MAPPING.md
+
+---
+
 ## AI 4-Layers Reference Model
 
 | Layer | Name | Role |
