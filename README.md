@@ -1,5 +1,7 @@
 # Digital Brain Model – Chain of Thoughts (DBM-COT)
 
+Structural Intelligence documentation repository for the Digital Brain Model (DBM).
+
 DBM-COT is the **documentation and conceptual layer** of the Digital Brain Model (DBM) ecosystem: a structured collection of design notes, algorithms, diagrams, and engineering skeletons for **Structural Intelligence**.
 
 This repository is organized by **release directories**. Each release provides a curated, stable snapshot.
