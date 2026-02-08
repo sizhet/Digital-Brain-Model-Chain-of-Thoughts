@@ -65,7 +65,9 @@ DBM-COT focuses on: *clear structure, reproducible reasoning, and engineering-re
 
 ## License
 
-This repository is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+This repository is licensed under 
+**Apache License Version 2.0**
+
 See **LICENSE**.
 
 ---
